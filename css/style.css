@@ -12,3 +12,78 @@
     border: 1px solid white;
     margin: 5px 0;
 }
+
+
+.box-avengers
+{
+    height: 200px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+
+
+.hulk
+{
+    background-image: url(https://images.everyeye.it/img-notizie/avengers-5-cerca-villain-hulk-v3-446145.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.black-widow
+{
+    background-image: url(https://www.cinelol.it/wp-content/uploads/2019/06/Black_Widow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.captain-america 
+{
+    background-image: url(https://myredcarpet.eu/wp-content/uploads/2019/03/captain-america-avengers-endgame.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.thanos
+{
+    background-image: url(https://cdn.bestmovie.it/wp-content/uploads/2019/12/thanos-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+
+
+
+
+.iron-man
+{
+    background-image: url(https://images.everyeye.it/img-notizie/marvel-presentera-un-armatura-iron-man-usata-film-come-v3-437361.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.hawk-eye
+{
+    background-image: url(https://i.pinimg.com/originals/86/c0/23/86c023deeef71939374ea4b5b8a8a9ad.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.thor
+{
+    background-image: url(https://www.cinematographe.it/wp-content/uploads/2019/05/thor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
