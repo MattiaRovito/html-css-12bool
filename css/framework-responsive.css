@@ -1,6 +1,6 @@
 /* versione 576px (Small)*/
 
-@media screen and (width: 576px) 
+@media screen and (min-width: 576px) 
 {
     .container-sm
     {
@@ -51,7 +51,7 @@
 
 /* versione 768px (Medium) */
 
-@media screen and (width: 768px) 
+@media screen and (min-width: 768px) 
 {
     .container-md
     {
@@ -102,7 +102,7 @@
 
 /* versione 992px (Large) */
 
-@media screen and (width: 992px) 
+@media screen and (min-width: 992px) 
 {
     .container-lg
     {
@@ -153,7 +153,7 @@
 
 /* versione 1200px (X-Large) */
 
-@media screen and (width: 1200px) 
+@media screen and (min-width: 1200px) 
 {
     .container-xl
     {
@@ -204,7 +204,7 @@
 
 /* versione 1400px (XX-Large) */
 
-@media screen and (width: 1400px) 
+@media screen and (min-width: 1400px) 
 {
     .container-xl
     {
