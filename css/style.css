@@ -87,3 +87,35 @@
     background-repeat: no-repeat;
     height: 100%;
 }
+
+
+
+
+
+/* Super Mario */
+
+
+
+.box-1up
+{
+    height: 40px;
+    /* border: 1px solid black; */
+}
+
+
+.red
+{
+    background-color:#ef3c36;
+}
+
+
+.brown
+{
+    background-color: #986728;
+}
+
+
+.yellow
+{
+    background-color: #ffcc68;
+}
