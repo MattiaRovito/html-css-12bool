@@ -1,6 +1,5 @@
 .box
 {
-    height: 150px;
     background-color: lightcoral;
     border: 1px solid black;
     text-align: center;
@@ -9,7 +8,6 @@
 
 .box-nested
 {
-    height: 140px;
     background-color: lightgreen;
     border: 1px solid white;
     margin: 5px 0;
